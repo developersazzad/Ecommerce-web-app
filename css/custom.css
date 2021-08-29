@@ -1,0 +1,181 @@
+/*--------------------------------------------------------------
+
+  Template Name: Asbab eCommerce HTML5 Template.
+  Description: Asbab is a unique website template designed in HTML with a simple & beautiful look.
+
+---------------------------------------------------------------*/
+/* ----------------------------------------------------
+	You can put your custom css code here:
+-------------------------------------------------------*/
+.btn_cart a {
+  color: white !important;
+}
+
+.sin__desc.align--left {
+  align-items: center;
+  display: inline-block;
+  margin-top: 21px;
+  align-content: center;
+  margin-left: ;
+}
+
+.pro__cat__list {
+  margin-top: 5%;
+}
+
+.btn_cart {
+  color:
+    white !important;
+  margin-top: 12%;
+}
+
+.click_btn:hover {
+  color: red !important;
+  cursor: pointer;
+}
+
+.resister_hide {
+  display: none;
+}
+
+.show_this {
+  display: block;
+}
+
+.hide_this {
+  display: none;
+}
+
+.dark-btn input {
+  display: inline-block;
+  height: 45px;
+  line-height: 45px;
+  text-align: center;
+  text-transform: uppercase;
+  background: #212121;
+  color: #ffffff;
+  font-family: "Poppins";
+  padding: 0 45px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  font-size: 16px;
+  transition: all 0.3s ease-in-out 0s;
+}
+.dark-btn input:hover{
+  background: gold;
+}
+.accordian_hide{
+  display:none;
+}
+.accordian_show{
+ display:block;
+}
+.header__account_loged_in i {
+    background: #ff2525;
+    padding: 10px;
+    border-radius: 24px;
+}
+.hover_cantunt {
+    display: ;
+    overflow: hidden;
+    position: absolute;
+    background: #51e8cb;
+    margin-top: 5px;
+    font-size: 8px !important;
+    font-family: oswald;
+    color: white !important;
+    border-radius: 4px;
+    transition: all 1s;
+    padding: 10px;
+}
+.hover_cantunt a{
+ position: static;
+}
+.hover_cantunt{
+opacity: 0;
+}
+.header__account:hover .hover_cantunt{
+opacity: 1;
+}
+.hover_cantunt:hover{
+opacity: 1;
+}
+.hover_cantunt a:hover{
+color:red !important;
+}
+.header__account a.hover_a {
+    color:black;
+    font-size: 14px;
+    margin-right: 0;
+    padding-right: 0;
+    position:none;
+}
+.htc__wishlist {
+    background: #c43b68;
+    border-radius: 100%;
+    color: #fff;
+    font-size: 9px;
+    height: 17px;
+    line-height: 19px;
+    position: absolute;
+    right: -5px;
+    text-align: center;
+    top: -4px;
+    width: 17px;
+}
+.htc__shopping__cart_hert {
+    margin-left: 10px;
+}
+.htc__shopping__cart_hert {
+    margin-right: 24px;
+    margin-left: 18px;
+}
+.resister_div input{
+  border:1px solid gray !important;
+}
+.btn.btn-success.button_eml {
+    padding: 7px 15px;
+}
+.btn.btn-success.button_otp {
+    padding: 7px 15px;
+}
+.otp_box{
+  display: none;
+}
+.text-left.text-danger.click_btn {
+    MARGIN-TOP: 20PX;
+    color: #46a8ff;
+    font-family: oswald;
+    letter-spacing: 2px;
+    text-decoration: underline;
+}
+
+.forget_pass_p {
+    margin-top: 8px;
+    font-size: 14px;
+    font-family: oswald;
+    letter-spacing: 1px;
+    text-decoration: underline;
+    color: red;
+}
+.forget_pass_p a{
+  color:red;
+}
+.name_edit_box,.name_edit_box_pass,.name_edit_box_mobile{
+  display:none;
+}
+.btn_list {
+    list-style: disclosure-closed;
+    margin-top: 10px;
+    color: #4d2c2b;
+    font-size: 20px;
+    margin-left: 22px;
+}
+a.catagoris_main_box{
+  font-family:oswald !important;
+  font-size:18px !important;
+}
+.custom_padding_dropdown{
+  padding:5px 25px;
+
+}
